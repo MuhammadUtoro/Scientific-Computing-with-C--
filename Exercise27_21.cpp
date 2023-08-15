@@ -6,6 +6,7 @@ Exercise 2.7 sub 2.1
 #include <iostream>
 
 int main(){
+    
     double x, y, z;
     std::cout << "Enter x: ";
     std::cin >> x;
