@@ -1,12 +1,12 @@
 /*
 Taken from the book: Guide to Scientific Computing in C++
-Exercise 2.7 sub 2.1
+Exercise 2.7 sub 2.1 - Control Flow Part I
 */
 
 #include <iostream>
 
 int main(){
-    
+
     double x, y, z;
     std::cout << "Enter x: ";
     std::cin >> x;
