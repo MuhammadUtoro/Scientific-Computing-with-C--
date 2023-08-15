@@ -1,6 +1,6 @@
 /*
 Taken from the book: Guide to Scientific Computing in C++
-Exercise 2.7 sub 2.2
+Exercise 2.7 sub 2.2 - Control Flow Part II
 */
 
 #include <iostream>
