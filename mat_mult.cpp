@@ -36,4 +36,8 @@ int main(){
 
     mat_mult(A,B);
 
+    std::cin.get();
+    
+    return 0; 
+
 }
