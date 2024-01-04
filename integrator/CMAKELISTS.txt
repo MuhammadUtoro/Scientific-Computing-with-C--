@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.5)
+project(linalg_1)
+
+# Set the directory for the Simbody installation
+set(Simbody_DIR "D:\\simbody-install" CACHE PATH "Path to Simbody installation directory")
+
+# Find the Simbody package
+find_package(Simbody REQUIRED)
+
+# Include directories for Simbody
+include_directories(${Simbody_INCLUDE_DIR})
+
+# Add the source files for your project
+add_executable(main main.cpp)
+
+# Link to the Simbody library
+target_link_libraries(main ${Simbody_LIBRARIES})

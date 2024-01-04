@@ -1,0 +1,1 @@
+ "D:/simbody-install/lib/libSimTKsimbody_d.dll.a" "D:/simbody-install/lib/libSimTKmath_d.dll.a" "D:/simbody-install/lib/libSimTKcommon_d.dll.a" "D:/simbody-install/lib/liblapack.lib" "D:/simbody-install/lib/libblas.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
