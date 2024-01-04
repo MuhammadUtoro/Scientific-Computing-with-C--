@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/C++/simbody_project/linalg_1/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\C++\\simbody_project\\linalg_1\\main.cpp",
+  "file": "D:/C++/simbody_project/linalg_1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
